@@ -1,13 +1,13 @@
 title: 28th Amendment Coalition
 author: "a28dev"
 
-theme: minima
+theme: minimal
 
 domain: a28dev.github.io  
 url: https://amendment-28.org
 baseurl: / 
 
-minima:
+minimal:
 
 include:
     - docs/
