@@ -10,6 +10,7 @@ url: https://amendment-28.org
 baseurl: / 
 
 include:
+    - /_layouts
 
 exclude: 
     - .gitignore
