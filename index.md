@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Info
+title: Main
 ---
 
 Pardon the dust while this site is building
