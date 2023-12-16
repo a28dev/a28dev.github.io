@@ -1,0 +1,22 @@
+title: 28th Amendment Coalition
+author: "a28dev"
+
+theme: minima
+
+domain: a28dev.github.io  
+url: https://amendment-28.org
+baseurl: / 
+
+minima:
+
+include:
+    - docs/
+    - _layouts/
+
+exclude: 
+    - .gitignore
+    - docker-compose.yml
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
