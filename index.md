@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Amendment 28
+title: 28th Amendment
 ---
 # The birthright of a slaveholding nation is generational trauma
 
