@@ -14,9 +14,9 @@ This is possible due to a loophole in the 13th amendment of the US constitution:
 > 
 >  ***Section 2**. Congress shall have power to enforce this article by appropriate legislation.*
 
-We cannot sit back and let corporations continue to profit off of this injustice. It is time for a new amendment to the US constitution which ends the exception and allows for prisoners to earn a living wage for their work.
-
 The civil war ended in 1865, since then, all other democratic nations of the world have had a complete ban on slavery in their constitutions. The Universal Declaration of Human Rights also specifically bans slavery as well[^4]. In the US however, the exception in the 13th amendment is the justification to continue practicing slavery well into the 21st century. It is time the US caught up to the rest of the world took a stance against slavery in any form!
+
+We cannot sit back and let corporations continue to profit off of this injustice. It is time for a new amendment to the US constitution which ends the exception and allows for prisoners to earn a living wage for their work.
 
 ## Join a growing campaign to end this loophole once and for all 
 
