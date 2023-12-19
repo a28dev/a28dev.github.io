@@ -21,6 +21,7 @@ You can play your part and help in a number of ways
 * [Dontate](https://www.zeffy.com/en-US/donation-form/b5686e83-66e2-4024-95fd-47d57f17c7a3) to the cause to allow this message to spread nationwide
 * [Buy](https://e7671c-5.myshopify.com/products/28th-amendment-campaign-sticker) campaign bumper sticker to spread awareness about the grassroots campaign to end forced labor in prisons!
 
+#### Footnotes
 [^1]:[Return to Now](https://returntonow.net/2016/06/13/prison-labor-is-the-new-american-slavery/)
 [^2]:[University of Chicago News](https://news.uchicago.edu/story/us-prison-labor-programs-violate-fundamental-human-rights-new-report-finds)
 [^3]:University of Chicago Law School: [pp. 57](https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1003&context=ghrc)
