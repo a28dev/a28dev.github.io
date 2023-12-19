@@ -3,9 +3,9 @@ layout: default
 title: Main
 ---
 
-Did you know that the United States prison system in 2023 utilizes forced labor for both commercial and governmental corporations?
+Did you know that the United States prison system in 2023 utilizes forced labor for both commercial and governmental corporations?[^1]
 
-In fact every year prisoners produce $2 billion worth in goods and $9 billion worth in services[^1]. While they are compensated at rates far below the federal minimum wage, or in some cases for nothing at all[^2].
+In fact every year prisoners produce $2 billion worth in goods and $9 billion worth in services[^2]. While they are compensated at rates far below the federal minimum wage, or in some cases for nothing at all[^3].
 
 This is possible due to a loophole in the 13th amendment of the US constitution:
 
@@ -13,7 +13,7 @@ This is possible due to a loophole in the 13th amendment of the US constitution:
 > 
 >  ***Section 2**. Congress shall have power to enforce this article by appropriate legislation.*
 
-Join a growing campaign to end this loophole once and for all 
+## Join a growing campaign to end this loophole once and for all 
 
 You can play your part and help in a number of ways
 
@@ -21,5 +21,6 @@ You can play your part and help in a number of ways
 * [Dontate](https://www.zeffy.com/en-US/donation-form/b5686e83-66e2-4024-95fd-47d57f17c7a3) to the cause to allow this message to spread nationwide
 * [Buy](https://e7671c-5.myshopify.com/products/28th-amendment-campaign-sticker) campaign bumper sticker to spread awareness about the grassroots campaign to end forced labor in prisons!
 
-[^1]:[University of Chicago News](https://news.uchicago.edu/story/us-prison-labor-programs-violate-fundamental-human-rights-new-report-finds)
-[^2]:University of Chicago Law School: [pp. 57](https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1003&context=ghrc)
+[^1]:[Return to Now](https://returntonow.net/2016/06/13/prison-labor-is-the-new-american-slavery/)
+[^2]:[University of Chicago News](https://news.uchicago.edu/story/us-prison-labor-programs-violate-fundamental-human-rights-new-report-finds)
+[^3]:University of Chicago Law School: [pp. 57](https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1003&context=ghrc)
