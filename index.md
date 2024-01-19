@@ -18,9 +18,7 @@ The civil war[^4] ended in 1865, since then, all other democratic nations of the
 
 We cannot sit back and let corporations continue to profit off of this injustice. It is time for a new amendment to the US constitution which ends the exception and allows for prisoners to earn a living wage for their work.
 
-## Join a growing campaign to end this loophole once and for all 
-
-You can play your part and help in a number of ways
+## Join a growing campaign to end this loophole once and for all
 
 * [Contact](https://myreps.datamade.us/) your local state and federal representatives and urge them to support a resolution to amend the constitution to end the exception for slavery as a punishment
 
